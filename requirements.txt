@@ -1,0 +1,8 @@
+pandas
+langdetect
+transformers
+torch
+matplotlib
+seaborn
+wordcloud
+streamlit
